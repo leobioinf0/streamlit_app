@@ -1,0 +1,19 @@
+pipenv shell
+pip install pandas streamlit pickle-mixin numpy scikit-learn
+
+git init
+
+git add .
+git config --global user.email "leobioinfo@gmail.com"
+git config --global user.name "leobioinf0"
+git commit -m "Initial commit"
+gh repo create
+git remote -v
+git remote add origin https://github.com/leobioinf0/my_app.git
+git push -u origin master
+gh repo view --web
+pip freeze > requirements.txt
+git add requirements.txt
+git commit -m "add requirements.txt"
+git push -u origin master
+gh repo view --web
