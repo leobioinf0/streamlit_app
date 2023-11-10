@@ -1,2 +1,2 @@
 Age,Sex,ChestPain,RestBP,Chol,Fbs,RestECG,MaxHR,ExAng,Oldpeak,Slope,Ca,Thal
-63,1,typical,145,233,1,2,150,0,2.3,3,0,fixed
+63,1,3,145,233,1,2,150,0,2.3,3,0,0
