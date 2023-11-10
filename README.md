@@ -11,7 +11,7 @@ Esta es una aplicación web Streamlit sencilla que permite a los usuarios predec
 ## Tabla de contenido
 
 - [Requisitos](#requisitos)
-- [Instalación](#instalacion)
+- [Instalación](#instalación)
 - [Uso](#uso)
 - [Features de entrada](#features-de-entrada)
 - [Salida](#salida)
