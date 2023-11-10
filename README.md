@@ -7,6 +7,8 @@ Esta es una aplicación web Streamlit sencilla que permite a los usuarios predec
 
 ![logo](imagen.png)
 
+[Website](https://heart-disease-predict.streamlit.app/)
+
 
 ## Tabla de contenido
 
